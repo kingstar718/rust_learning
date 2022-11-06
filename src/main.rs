@@ -1,5 +1,6 @@
 mod string_demo;
 mod string_operate;
+mod tuple_demo;
 
 fn main() {
     str_demo();
