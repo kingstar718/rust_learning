@@ -3,6 +3,7 @@ mod string_operate;
 mod tuple_demo;
 mod struct_demo;
 mod method_demo;
+mod generics_demo;
 
 fn main() {
     str_demo();
