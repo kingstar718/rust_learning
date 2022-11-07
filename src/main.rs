@@ -2,6 +2,7 @@ mod string_demo;
 mod string_operate;
 mod tuple_demo;
 mod struct_demo;
+mod method_demo;
 
 fn main() {
     str_demo();
