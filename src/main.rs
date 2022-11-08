@@ -5,6 +5,7 @@ mod struct_demo;
 mod method_demo;
 mod generics_demo;
 mod collect_demo;
+mod return_error_demo;
 
 fn main() {
     str_demo();
