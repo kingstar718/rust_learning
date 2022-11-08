@@ -4,6 +4,7 @@ mod tuple_demo;
 mod struct_demo;
 mod method_demo;
 mod generics_demo;
+mod collect_demo;
 
 fn main() {
     str_demo();
